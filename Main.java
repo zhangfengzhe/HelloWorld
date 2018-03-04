@@ -55,7 +55,7 @@ public class Main {
         } finally {
             workerGroup.shutdownGracefully();
             bossGroup.shutdownGracefully();
-            System.out.println("exit server....");
+            System.out.println("exit server....lisi");
         }
 
     }
